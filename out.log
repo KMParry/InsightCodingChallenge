@@ -1,0 +1,7 @@
+p->user1=1,p->id1=0
+p->user1=2,p->id1=1
+p->user1=3,p->id1=2
+current->user1=3,user1=0,current->user2=1,user2=2
+current->user1=1,user1=0,current->user2=2,user2=2
+node count=3, edge  count =1
+
